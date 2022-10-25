@@ -18,7 +18,7 @@
 4、文件会多生成两个文件，hosts+时间.bak文件是原始的hosts文件，hosts.bak文件为上次修改的文件
 
 # 使用方法：
-1、直接使用python3运行即可完成操作
+1、直接使用python3运行即可完成操作。python3 FixGoogleTranslate.py
 
 2、文件中会打印出详细说明，且文件中也有相应注释
 
